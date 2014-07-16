@@ -1,0 +1,11 @@
+{
+    "name": "RasLab-Babysteps",
+    "version": "1.0.0",
+    "dependencies": {
+		"raspicam" : "latest",
+		"request" : "latest",
+		"twitter" : "latest",
+		"onoff" : "latest",
+		"wiring-pi" : "latest"
+    }
+}
